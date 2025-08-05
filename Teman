@@ -1,0 +1,49 @@
+public class Teman {
+    public static void main(String args[]) {
+        //Teman 1 - Noach //
+        String nlengkap = "Noach Zefanya Rifian";
+        String sekolah = "SMPK Imanuel Situbondo";
+        int umur = 15;
+        char kelamin= 'L';
+        System.out.println(nlengkap);
+        System.out.println("dari : " + sekolah);
+        System.out.println(umur + " Tahun");
+        System.out.println("Jenis Kelamin : " + kelamin);
+        //Teman 2 - Prama //
+        String nlengkap2 = "Prama Javas Aryatama";
+        String sekolah2 = "SMPN 21 Malang";
+        int umur2 = 15;
+        char kelamin2= 'L';
+        System.out.println(nlengkap2);
+        System.out.println("dari : " + sekolah2);
+        System.out.println(umur2 + " Tahun");
+        System.out.println("Jenis Kelamin : " + kelamin2);
+        //Teman 3 - Luthfi //
+        String nlengkap3 = "Luthfi Paksi Airlangga";
+        String sekolah3 = "Sekolah Islam Cendekia Harapan";
+        int umur3 = 15;
+        char kelamin3= 'L';
+        System.out.println(nlengkap3);
+        System.out.println("dari : " + sekolah3);
+        System.out.println(umur3 + " Tahun");
+        System.out.println("Jenis Kelamin : " + kelamin3);
+        //Teman 4 - Rambo //
+        String nlengkap4 = "Langit Rambo Winanta";
+        String sekolah4 = "smp muhammadiyah wanadadi";
+        int umur4 = 15;
+        char kelamin4= 'L';
+        System.out.println(nlengkap4);
+        System.out.println("dari : " + sekolah4);
+        System.out.println(umur4 + " Tahun");
+        System.out.println("Jenis Kelamin : " + kelamin4);
+        //Teman 5 - Azzam //
+        String nlengkap5 = "Azzam Gading";
+        String sekolah5 = "SMP Al Izzah batu";
+        int umur5 = 15;
+        char kelamin5= 'L';
+        System.out.println(nlengkap5);
+        System.out.println("dari : " + sekolah5);
+        System.out.println(umur5 + " Tahun");
+        System.out.println("Jenis Kelamin : " + kelamin5);
+    }
+}
