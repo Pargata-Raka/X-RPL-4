@@ -1,0 +1,17 @@
+//Driver Class
+public class Friendtest {
+ public static void main(String args[]){
+    //membuat object
+    Friend Prama = new Friend("Prama Javas Aryatama", "SMPN 21 Malang", 'L', 15);
+    Prama.print();
+    Friend Azzam = new Friend("Azzam Gading", "SMP Al Izzah Batu", 'L', 15);
+    Azzam.print();
+    Friend Noach = new Friend("Noach Zefanya Rifian", "SMP Immanuel Situbondo", 'L', 15);
+    Noach.print();
+    Friend Luthfi = new Friend("Luthfi Paksi Airlangga", "SICH", 'L', 15);
+    Luthfi.print();
+    Friend Rambo = new Friend("Langit Rambo Winanta", "SMP Muhammadiyah Wanadadi", 'L', 15);
+    Rambo.print();
+ }   
+
+}
