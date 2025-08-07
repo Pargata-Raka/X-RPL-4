@@ -1,0 +1,25 @@
+//Object Class
+public class Friend {
+    //Property Class
+    String nlengkap; 
+    String sekolah;
+    char kelamin;
+    int umur;
+
+    //constructor
+    public Friend(String n, String s, char j, int u) {
+        nlengkap = n;
+        sekolah = s;
+        kelamin = j;
+        umur = u;
+    }
+    //getter
+    //setter
+    //method
+    public void print() {
+        System.out.println(nlengkap);
+        System.out.println(sekolah);
+        System.out.println(umur + "Tahun");
+        System.out.println("Jenis Kelamin : " + kelamin);
+    }
+}
